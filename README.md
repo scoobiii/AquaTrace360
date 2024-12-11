@@ -133,6 +133,8 @@ AquaTrace360_v5.0/
 
 ### **5. Cenário Simulado: São Paulo - Bio Casa, Bio Quadra by ONG Ecos do Vitória**
 
+: https://youtu.be/Ox0bnX7Ksj4?si=UlybAGWhbkfywtvj
+
 #### **Condições Locais**
 - Lençol freático raso com contaminação moderada por ferro e coliformes.
 - Demanda hídrica diária: 800 m³/dia.
